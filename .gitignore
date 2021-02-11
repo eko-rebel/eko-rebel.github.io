@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1cadd75267ee2329ad288519eaea17586be73f0f
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+<<<<<<< HEAD
 =======
 _site
 .sass-cache
@@ -10,3 +14,5 @@ _site
 .jekyll-metadata
 vendor
 >>>>>>> master
+=======
+>>>>>>> 1cadd75267ee2329ad288519eaea17586be73f0f
